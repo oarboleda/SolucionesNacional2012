@@ -13,6 +13,7 @@ import java.io.InputStreamReader;
  * @author oarboleda
  */
 public class VersionArboleda_3n_1 {
+    // Nuevo comentario adicionado
     static final int MAXIMO = 20;    
 //    static final int MAXIMO = 40*1000000;
     static int resultados[] = new int[MAXIMO];
